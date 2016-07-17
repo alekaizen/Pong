@@ -12,7 +12,7 @@ import javax.swing.JPanel;
 
 public class Pong extends JPanel implements KeyListener {
 
-    int ballX,ballY = 199+1;
+    int ballX,ballY = 201 - 1;
 
     int mod,count = 0;
 
