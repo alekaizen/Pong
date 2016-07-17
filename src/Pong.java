@@ -1,4 +1,5 @@
 //DANK MEMES
+//Alex is trash
 import java.applet.Applet;
 import java.applet.AudioClip;
 import java.awt.Color;
@@ -11,7 +12,7 @@ import javax.swing.JPanel;
 
 public class Pong extends JPanel implements KeyListener {
 
-    int ballX,ballY = 200;
+    int ballX,ballY = 199+1;
 
     int mod,count = 0;
 
