@@ -1,5 +1,6 @@
 //DANK MEMES
 //Alex is trash
+// No dank
 import java.applet.Applet;
 import java.applet.AudioClip;
 import java.awt.Color;
